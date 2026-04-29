@@ -1,0 +1,280 @@
+<mxfile host="65bd71144e" compressed="false">
+    <diagram id="iteracion03" name="Iteracion 03">
+        <mxGraphModel dx="2266" dy="2083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3800" pageHeight="2200" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="LSI estudiada (arts. 91-127 trabajados)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#0B6E4F;strokeColor=#064E3B;fontColor=#FFFFFF;fontStyle=1;fontSize=20;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="672" y="1072" width="520" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Programas de ordenador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E0F2FE;strokeColor=#0284C7;fontColor=#075985;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="452" y="982" width="360" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Objeto protegido, originalidad y documentacion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#ECFEFF;strokeColor=#0891B2;fontColor=#164E63;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="412" y="1202" width="350" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Titularidad y software asalariado" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#ECFEFF;strokeColor=#0891B2;fontColor=#164E63;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="602" y="892" width="350" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Reproduccion, transformacion y distribucion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#ECFEFF;strokeColor=#0891B2;fontColor=#164E63;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="262" y="1022" width="350" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Uso necesario, copia de seguridad, observacion e interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#ECFEFF;strokeColor=#0891B2;fontColor=#164E63;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="222" y="1192" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Registro de programa, versiones y derivados" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#ECFEFF;strokeColor=#0891B2;fontColor=#164E63;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="412" y="792" width="350" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Infraccion: copias ilegitimas y neutralizacion tecnica" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FEE2E2;strokeColor=#DC2626;fontColor=#7F1D1D;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="232" y="832" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Acciones, cautelares y concurrencia normativa" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FEE2E2;strokeColor=#DC2626;fontColor=#7F1D1D;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="62" y="712" width="350" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Obra audiovisual y version definitiva" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FEF3C7;strokeColor=#D97706;fontColor=#78350F;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="742" y="1272" width="420" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Aportacion incompleta" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="882" y="1472" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Version definitiva" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FEF3C7;strokeColor=#D97706;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="982" y="1062" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Modificacion autorizada" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1302" y="932" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Ajustes para radiodifusion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1412" y="622" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Derecho moral y soporte original" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1172" y="1222" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Obras radiofonicas" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="692" y="1422" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Derechos afines" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#064E3B;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="832" y="742" width="360" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Interpretes o ejecutantes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#064E3B;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="822" y="902" width="250" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Fijacion, reproduccion y comunicacion publica" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="772" y="592" width="290" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Puesta a disposicion y cesion a productores" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="992" y="1232" width="290" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Remuneracion irrenunciable y entidades de gestion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1242" y="1372" width="290" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Alquiler, trabajo o servicios y art. 110 bis" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="612" y="1122" width="290" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Representante, duracion y derechos morales" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="642" y="712" width="290" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Productores de fonogramas" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#064E3B;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1232" y="672" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Fonograma, iniciativa y responsabilidad" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1292" y="482" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Reproduccion, comunicacion publica y distribucion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1452" y="922" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Remuneracion equitativa compartida" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1462" y="1182" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Importacion, exportacion, agotamiento y legitimacion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="942" y="482" width="320" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="Duracion 50 o 70 anos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1512" y="722" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Productores de grabaciones audiovisuales" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#064E3B;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1122" y="842" width="330" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Grabacion audiovisual e iniciativa empresarial" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1122" y="1032" width="330" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Reproduccion, comunicacion publica y distribucion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1302" y="1112" width="330" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Remuneracion por determinados usos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1402" y="1342" width="330" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Fotografias del proceso y agotamiento" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1342" y="782" width="330" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Duracion y divulgacion licita" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="952" y="902" width="330" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Entidades de radiodifusion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#064E3B;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1142" y="482" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Emisiones o transmisiones" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1152" y="222" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Fijacion, reproduccion, puesta a disposicion, retransmision y distribucion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1032" y="662" width="320" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="Cable ajeno sin derecho de fijacion" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="1142" y="22" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Comunicacion publica pagada y coordinacion con art. 20" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#FFF3CD;strokeColor=#F59E0B;fontColor=#78350F;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1312" y="292" width="320" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Duracion 50 anos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;fillColor=#F1F8E9;strokeColor=#66BB6A;fontColor=#1B5E20;" parent="1" vertex="1">
+                    <mxGeometry x="992" y="302" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="se organiza en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="2" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="se articula con" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#D97706;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="2" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="se despliega en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="2" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="10" target="11" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="10" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="10" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="queda limitado por" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="10" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="permite" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#0284C7;fontColor=#075985;noEdgeStyle=1;" parent="1" source="10" target="15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="desemboca en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#DC2626;fontColor=#7F1D1D;noEdgeStyle=1;" parent="1" source="10" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="habilita" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#DC2626;fontColor=#7F1D1D;noEdgeStyle=1;" parent="1" source="16" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#D97706;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="20" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="culmina en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#D97706;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="20" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="solo admite" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#D97706;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="22" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="presume ajustes para" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="23" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="114" value="concentra" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#D97706;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="22" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="se extiende a" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="20" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="30" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="117" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="30" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="30" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="30" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="120" value="comprende" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="31" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="puede transferir" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="31" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="122" value="no elimina" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="33" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="desarrolla" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="31" target="35" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="mantiene" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="31" target="36" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="se apoya en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="40" target="41" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="ejerce" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="40" target="42" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="genera" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="42" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="128" value="circula mediante" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="40" target="44" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="129" value="dura" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="40" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="130" value="se apoya en" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="50" target="51" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="131" value="ejerce" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="50" target="52" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="puede generar" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="52" target="53" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="incluye" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="50" target="54" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="dura" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="50" target="55" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="protege" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="60" target="61" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="autoriza" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="60" target="62" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="limita" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="61" target="63" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="coordina" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#F59E0B;fontColor=#78350F;noEdgeStyle=1;" parent="1" source="60" target="64" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="dura" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#2E7D32;fontColor=#064E3B;noEdgeStyle=1;" parent="1" source="60" target="65" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="incorpora" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="22" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="presupone" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="22" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="anticipa" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="24" target="60" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="se comparte con" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="34" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="se conecta con" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="53" target="34" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="difunde fijaciones y actuaciones" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="62" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="difunde fonogramas" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="62" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="difunde grabaciones" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="62" target="50" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" value="comparte patron de tutela" style="edgeStyle=orthogonalEdgeStyle;rounded=1;dashed=1;html=1;endArrow=block;strokeColor=#BE185D;fontColor=#831843;noEdgeStyle=1;" parent="1" source="10" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
